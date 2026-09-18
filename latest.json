@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "url": "https://github.com/MiguelAlberola/token-argus/releases/latest",
-  "notes": "Empaquetado: el ejecutable ya se genera como TokenArgus.exe."
+  "notes": "Ahora avisa cuando hay una versión nueva."
 }
