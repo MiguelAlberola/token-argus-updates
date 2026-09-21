@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "url": "https://github.com/MiguelAlberola/token-argus/releases/latest",
-  "notes": "Corregida la media diaria, que estaba inflada."
+  "notes": "Publicación automatizada y tests en cada cambio."
 }
