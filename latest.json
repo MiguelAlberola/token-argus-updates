@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "url": "https://github.com/MiguelAlberola/token-argus/releases/latest",
-  "notes": "El formulario de ampliación de cuota ya sale relleno."
+  "notes": "El tier de destino ya se rellena en el formulario de cuota."
 }
