@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://github.com/MiguelAlberola/token-argus/releases/latest",
-  "notes": "Consumo del tramo del tier y avisos configurables."
+  "notes": "Coste de IA de los últimos 7 días y selección de rango en la vista completa."
 }
