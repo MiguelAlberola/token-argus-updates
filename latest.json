@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
+  "version": "1.3.0",
   "url": "https://github.com/MiguelAlberola/token-argus/releases/latest",
-  "notes": "Publicación automatizada y tests en cada cambio."
+  "notes": "El formulario de ampliación de cuota ya sale relleno."
 }
