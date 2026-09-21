@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
+  "version": "1.4.0",
   "url": "https://github.com/MiguelAlberola/token-argus/releases/latest",
-  "notes": "El tier de destino ya se rellena en el formulario de cuota."
+  "notes": "Media diaria corregida y enlace al informe de EFFIMETRIX."
 }
