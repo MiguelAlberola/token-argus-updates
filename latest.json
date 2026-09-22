@@ -1,6 +1,1 @@
-﻿{
-    "notes":  "https://github.com/MiguelAlberola/token-argus/releases/tag/v1.6.1",
-    "url":  "https://github.com/MiguelAlberola/token-argus/releases/download/v1.6.1/TokenArgus.exe",
-    "version":  "1.6.1",
-    "kind":  "fix"
-}
+{"version": "1.6.1", "kind": "fix", "url": "https://github.com/MiguelAlberola/token-argus/releases/download/v1.6.1/TokenArgus.exe", "notes": "https://github.com/MiguelAlberola/token-argus/releases/tag/v1.6.1"}
