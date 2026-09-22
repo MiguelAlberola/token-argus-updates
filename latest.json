@@ -1,6 +1,6 @@
-{
-  "version": "1.6.0",
-  "kind": "mixed",
-  "url": "https://github.com/MiguelAlberola/token-argus/releases/latest",
-  "notes": "Escala de tiers en la barra y el gráfico ya no pierde el último día."
+﻿{
+    "notes":  "https://github.com/MiguelAlberola/token-argus/releases/tag/v1.6.1",
+    "url":  "https://github.com/MiguelAlberola/token-argus/releases/download/v1.6.1/TokenArgus.exe",
+    "version":  "1.6.1",
+    "kind":  "fix"
 }
