@@ -1,5 +1,6 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
+  "kind": "mixed",
   "url": "https://github.com/MiguelAlberola/token-argus/releases/latest",
-  "notes": "Configuración en la app, seguimiento de tu solicitud y aviso temprano de ritmo."
+  "notes": "Escala de tiers en la barra y el gráfico ya no pierde el último día."
 }
