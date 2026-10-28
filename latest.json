@@ -1,1 +1,1 @@
-{"version": "1.8.0", "kind": "mixed", "url": "https://github.com/MiguelAlberola/token-argus/releases/download/v1.8.0/TokenArgus.exe", "notes": "Tiers de 60.000, 110.000, 160.000 y 210.000 creditos, barra del Complexity Score ocultable y enlace de ayuda de MOYA para la cuota."}
+{"version": "1.9.0", "kind": "feature", "url": "https://github.com/MiguelAlberola/token-argus/releases/download/v1.9.0/TokenArgus.exe", "notes": "Listado de las PRs del mes con su clasificacion y fecha en el menu y la vista completa, y estimacion de los puntos que suma el dia en el Complexity Score."}
